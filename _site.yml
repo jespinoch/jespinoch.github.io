@@ -1,0 +1,14 @@
+name: mi-Pagina
+output_dir: "."
+navbar:
+  title: Arquitectura Salud
+  left:
+    - text: Home
+      href: index.html
+    - text: About
+      href: about.html
+output:
+  html_document:
+    lib_dir: site_libs
+    self_contained: no
+      
