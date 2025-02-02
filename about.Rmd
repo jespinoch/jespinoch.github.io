@@ -2,4 +2,4 @@
 title: "Acerca de"
 ---
 
-Mas informacion!!
+Mas informacion sobre mi pagiba web
